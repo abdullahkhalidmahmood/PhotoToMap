@@ -1,0 +1,2 @@
+rootProject.name='PhotoToMap'
+include ':app'
